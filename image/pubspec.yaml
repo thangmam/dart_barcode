@@ -13,13 +13,13 @@ environment:
 
 dependencies:
   args: ^2.3.0
-  barcode: ^2.2.2
-  image: ^3.1.0
+  barcode: ^2.2.3
+  image: ^4.0.02
   meta: ^1.7.0
 
-dependency_overrides:
-  barcode:
-    path: ../barcode
+# dependency_overrides:
+#   barcode:
+#     path: ../barcode
 
 dev_dependencies:
   crypto: ^3.0.2

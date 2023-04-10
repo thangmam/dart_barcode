@@ -11,13 +11,11 @@ environment:
   flutter: ">=1.16.0"
 
 dependencies:
-  barcode: ^2.2.2
+  barcode: ^2.2.3
   flutter:
     sdk: flutter
 
-dependency_overrides:
-  barcode:
-    path: ../barcode
+
 
 dev_dependencies:
   flutter_lints: ^2.0.1

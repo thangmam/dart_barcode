@@ -10,12 +10,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-dependency_overrides:
-  barcode:
-    path: ../../barcode
-  barcode_widget:
-    path: ../
-
 dev_dependencies:
   flutter_lints:
 
